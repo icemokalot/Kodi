@@ -1,1 +1,1 @@
-# Kodi
+# Kodi                                                                                                                                                                                                                                                                                                                                                                                                                                                This is iceMokalot, please enjoy using Kodi. I have included Versions, Repositories, and custom builds.
